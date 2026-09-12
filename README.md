@@ -1,1 +1,1 @@
-This line changed again
+This line was changed in both branches.
