@@ -1,1 +1,1 @@
-This file chanaged by test branch
+This line was changed in both branches.
