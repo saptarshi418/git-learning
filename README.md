@@ -1,1 +1,1 @@
-This is latest v from our side
+This branch is for practicing squash and merge.
