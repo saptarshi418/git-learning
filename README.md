@@ -1,1 +1,1 @@
-only This line was added for rebase practice.
+Reset and revert practice - change 1
