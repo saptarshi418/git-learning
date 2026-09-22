@@ -1,1 +1,1 @@
-Reset and revert practice - change 2
+Stash practice - change 2
