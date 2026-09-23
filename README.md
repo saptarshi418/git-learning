@@ -3,4 +3,4 @@ Stash practice - change 2
 
 Cherry-pick practice commit
 
-v2
+v1.1.0
